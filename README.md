@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend with Python and Django**
 
-- 💬 Ask me about **Python apps, Binance API REST, Binance automation of payments, Algorithmic trading, Keygen.sh, OpenCV, Metaheuristic algorithms of optimization**
+- 💬 Ask me about **Python apps, Binance API REST, Binance automation of payments, Algorithmic trading, Keygen.sh, OpenCV, Metaheuristic algorithms of optimization, Computational Electromagnetics**
 
 - 📫 How to reach me **ahidalgo3@uc.edu.ve**
 

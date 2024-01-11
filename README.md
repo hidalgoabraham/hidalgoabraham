@@ -18,4 +18,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width:100%;height:75px;/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" alt="aws" style="max-width:100%;height:75px;"/> 
+  </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="max-width:100%;height:75px;"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="max-width:100%;height:75px;/> 
+  </a>  
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" style="max-width:100%;height:75px;/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" style="max-width:100%;height:75px;/> 
+  </a> 
+</p>

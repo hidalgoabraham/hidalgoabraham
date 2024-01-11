@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3 Decentralized Apps Development**
 
-- 💬 Ask me about **Python apps, Backend Software, Algorithmic Trading, Binance API REST, Computational Electromagnetics**
+- 💬 Ask me about **Python Apps, Backend Software, Algorithmic Trading, Binance API REST, Computational Electromagnetics**
 
 - 📫 How to reach me **ahidalgo3@uc.edu.ve**
 

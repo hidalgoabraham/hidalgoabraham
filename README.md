@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name is Abraham Hidalgo</h1>
-<h3 align="center">An enterprising Software developer</h3>
+<h3 align="center">An enterprising Software Developer</h3>
 
-- 🔭 I’m currently working on **A cryptocurrency trading bot**
+- 🔭 I’m currently working on **Backend Web Development**
 
-- 🌱 I’m currently learning **Backend with Python and Django**
+- 🌱 I’m currently learning **Web3 Decentralized Apps Development**
 
-- 💬 Ask me about **Python apps, Binance API REST, Binance automation of payments, Algorithmic trading, Keygen.sh, OpenCV, Metaheuristic algorithms of optimization, Computational Electromagnetics**
+- 💬 Ask me about **Python apps, Backend Software, Algorithmic Trading, Binance API REST, Computational Electromagnetics**
 
 - 📫 How to reach me **ahidalgo3@uc.edu.ve**
 

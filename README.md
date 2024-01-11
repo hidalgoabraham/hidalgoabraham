@@ -20,27 +20,33 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--   Python -->
-  <a href="https://www.python.org" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width:100%;height:75px;"/> 
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;height:75px;"/> 
   </a>
+<!--   TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="TypeScript" style="max-width:100%;height:75px;"/> 
+  </a>
+
+  
 <!--   AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" alt="aws" style="max-width:100%;height:75px;"/> 
+  <a href="https://aws.amazon.com" target="_blank" style="text-decoration: none;"> 
+    <img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" style="max-width:100%;height:75px;"/> 
   </a> 
 <!--   MatLab -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="max-width:100%;height:75px;"/> 
+  <a href="https://www.mathworks.com/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="max-width:100%;height:75px;"/> 
   </a> 
 <!--   OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="max-width:100%;height:75px;"/> 
+  <a href="https://opencv.org/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="max-width:100%;height:75px;"/> 
   </a>  
 <!--   Qt -->
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" style="max-width:100%;height:75px;"/> 
+  <a href="https://www.qt.io/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="max-width:100%;height:75px;"/> 
   </a> 
 <!--   Scikit Learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" style="max-width:100%;height:75px;"/> 
+  <a href="https://scikit-learn.org/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width:100%;height:75px;"/> 
   </a> 
 </p>

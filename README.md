@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Abraham Hidalgo</h1>
-<h3 align="center">An enterprising Software Developer</h3>
+<h3 align="center">An enterprising Software Developer, Telecommunications Engineer</h3>
 
 - 🔭 I’m currently working on **Backend Web Development**
 

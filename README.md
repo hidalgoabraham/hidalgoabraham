@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python Apps, Backend Software, Algorithmic Trading, Binance API REST, Computational Electromagnetics**
 
-- 🔍 See my Resume <a href="https://drive.google.com/file/d/1n9e4mvl7JMIvihoGmYfXAn1vZchwV4Fb/view?usp=sharing">**here**</a>
+- 🔍 See my Resume <a href="https://drive.google.com/file/d/1n9e4mvl7JMIvihoGmYfXAn1vZchwV4Fb/view?usp=sharing" target="_blank">**here**</a>
 
 - 📫 How to reach me **ahidalgo3@uc.edu.ve**
 

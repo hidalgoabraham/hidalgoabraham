@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, my name is Abraham Hidalgo</h1>
 <h3 align="center">An enterprising Software Developer, Telecommunications Engineer</h3>
 
-- 🔭 I’m currently working on **Backend Web Development**
+- 💻 I’m currently working on **Backend Web Development**
 
-- 🌱 I’m currently learning **Web3 Decentralized Apps Development**
+- 🌱 I’m currently learning **Algorithmic Trading**
 
 - 💬 Ask me about **Python Apps, Backend Software, Algorithmic Trading, Binance API REST, Computational Electromagnetics**
+
+- 🔍 See my Resume <a href="https://drive.google.com/file/d/1n9e4mvl7JMIvihoGmYfXAn1vZchwV4Fb/view?usp=sharing">**here**</a>
 
 - 📫 How to reach me **ahidalgo3@uc.edu.ve**
 
